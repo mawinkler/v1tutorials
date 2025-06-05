@@ -1,0 +1,5 @@
+# AWS Region
+aws_region = "eu-west-1"
+
+# Virtual Network Sensor Token
+vns_token = "VNS TOKEN"
